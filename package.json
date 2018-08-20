@@ -1,0 +1,19 @@
+{
+  "name": "co",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HancockTong/co.git"
+  },
+  "author": "Hancock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HancockTong/co/issues"
+  },
+  "homepage": "https://github.com/HancockTong/co#readme"
+}
